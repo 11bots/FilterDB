@@ -84,6 +84,13 @@
     "size": 1107244685
   },
   {
+    "id": 803,
+    "name": "- Wednesday S02E01 Here We Woe Again 1080p.mkv",
+    "caption": "- Wednesday S02E01 Here We Woe Again 1080p.mkv",
+    "chatId": -1003068337532,
+    "size": 1107244685
+  },
+  {
     "id": 5614,
     "name": "- Wednesday S02E02 The Devil You Woe 1080p.mkv",
     "caption": "- Wednesday S02E02 The Devil You Woe 1080p.mkv",
@@ -98,10 +105,24 @@
     "size": 1021547739
   },
   {
+    "id": 805,
+    "name": "- Wednesday S02E03 Call of the Woe 1080p.mkv",
+    "caption": "- Wednesday S02E03 Call of the Woe 1080p.mkv",
+    "chatId": -1003068337532,
+    "size": 1021547739
+  },
+  {
     "id": 5616,
     "name": "- Wednesday S02E04 If These Woes Could Talk 1080p.mkv",
     "caption": "- Wednesday S02E04 If These Woes Could Talk 1080p.mkv",
     "chatId": -1001572705149,
+    "size": 963956242
+  },
+  {
+    "id": 806,
+    "name": "- Wednesday S02E04 If These Woes Could Talk 1080p.mkv",
+    "caption": "- Wednesday S02E04 If These Woes Could Talk 1080p.mkv",
+    "chatId": -1003068337532,
     "size": 963956242
   },
   {
@@ -15029,10 +15050,24 @@
     "size": 861793242
   },
   {
+    "id": 799,
+    "name": "Wednesday.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
+    "size": 861793242
+  },
+  {
     "id": 5597,
     "name": "Wednesday.S02E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 841617335
+  },
+  {
+    "id": 787,
+    "name": "Wednesday.S02E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 841617335
   },
   {
@@ -15043,6 +15078,13 @@
     "size": 2424974437
   },
   {
+    "id": 783,
+    "name": "Wednesday.S02E01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "caption": "Wednesday.S02E01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "chatId": -1003068337532,
+    "size": 2424974437
+  },
+  {
     "id": 5605,
     "name": "Wednesday.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "caption": "Wednesday.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
@@ -15050,10 +15092,31 @@
     "size": 379263588
   },
   {
+    "id": 795,
+    "name": "Wednesday.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 379263588
+  },
+  {
+    "id": 791,
+    "name": "Wednesday.S02E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
+    "size": 629963387
+  },
+  {
     "id": 5610,
     "name": "Wednesday.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "caption": "Wednesday.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "chatId": -1001572705149,
+    "size": 730680692
+  },
+  {
+    "id": 800,
+    "name": "Wednesday.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
     "size": 730680692
   },
   {
@@ -15064,10 +15127,24 @@
     "size": 639152845
   },
   {
+    "id": 788,
+    "name": "Wednesday.S02E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
+    "size": 639152845
+  },
+  {
     "id": 5594,
     "name": "Wednesday.S02E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
     "caption": "Wednesday.S02E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
     "chatId": -1001572705149,
+    "size": 2423988602
+  },
+  {
+    "id": 784,
+    "name": "Wednesday.S02E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "caption": "Wednesday.S02E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "chatId": -1003068337532,
     "size": 2423988602
   },
   {
@@ -15078,10 +15155,24 @@
     "size": 309905201
   },
   {
+    "id": 796,
+    "name": "Wednesday.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 309905201
+  },
+  {
     "id": 5602,
     "name": "Wednesday.S02E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 517196203
+  },
+  {
+    "id": 792,
+    "name": "Wednesday.S02E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 517196203
   },
   {
@@ -15092,10 +15183,24 @@
     "size": 822259416
   },
   {
+    "id": 801,
+    "name": "Wednesday.S02E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
+    "size": 822259416
+  },
+  {
     "id": 5599,
     "name": "Wednesday.S02E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 817794284
+  },
+  {
+    "id": 789,
+    "name": "Wednesday.S02E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 817794284
   },
   {
@@ -15106,10 +15211,24 @@
     "size": 2362215085
   },
   {
+    "id": 785,
+    "name": "Wednesday.S02E03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "caption": "Wednesday.S02E03.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "chatId": -1003068337532,
+    "size": 2362215085
+  },
+  {
     "id": 5607,
     "name": "Wednesday.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "caption": "Wednesday.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "chatId": -1001572705149,
+    "size": 364053806
+  },
+  {
+    "id": 797,
+    "name": "Wednesday.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
     "size": 364053806
   },
   {
@@ -15120,10 +15239,24 @@
     "size": 619575260
   },
   {
+    "id": 802,
+    "name": "Wednesday.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
+    "size": 725196500
+  },
+  {
     "id": 5600,
     "name": "Wednesday.S02E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 695728043
+  },
+  {
+    "id": 790,
+    "name": "Wednesday.S02E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 695728043
   },
   {
@@ -15134,10 +15267,24 @@
     "size": 2421839310
   },
   {
+    "id": 786,
+    "name": "Wednesday.S02E04.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "caption": "Wednesday.S02E04.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-BiOMA.mkv",
+    "chatId": -1003068337532,
+    "size": 2421839310
+  },
+  {
     "id": 5608,
     "name": "Wednesday.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "caption": "Wednesday.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "chatId": -1001572705149,
+    "size": 312639277
+  },
+  {
+    "id": 798,
+    "name": "Wednesday.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
     "size": 312639277
   },
   {
@@ -15148,6 +15295,13 @@
     "size": 547738645
   },
   {
+    "id": 794,
+    "name": "Wednesday.S02E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
+    "size": 547738645
+  },
+  {
     "id": 5627,
     "name": "Wednesday.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "caption": "Wednesday.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
@@ -15155,10 +15309,31 @@
     "size": 636423143
   },
   {
+    "id": 817,
+    "name": "Wednesday.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
+    "size": 636423143
+  },
+  {
+    "id": 813,
+    "name": "Wednesday.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 275300578
+  },
+  {
     "id": 5619,
     "name": "Wednesday.S02E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 473424737
+  },
+  {
+    "id": 809,
+    "name": "Wednesday.S02E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 473424737
   },
   {
@@ -15169,10 +15344,24 @@
     "size": 898016095
   },
   {
+    "id": 818,
+    "name": "Wednesday.S02E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
+    "size": 898016095
+  },
+  {
     "id": 5624,
     "name": "Wednesday.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "caption": "Wednesday.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
     "chatId": -1001572705149,
+    "size": 365750347
+  },
+  {
+    "id": 814,
+    "name": "Wednesday.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
     "size": 365750347
   },
   {
@@ -15183,10 +15372,24 @@
     "size": 582325056
   },
   {
+    "id": 810,
+    "name": "Wednesday.S02E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
+    "size": 582325056
+  },
+  {
     "id": 5629,
     "name": "Wednesday.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "caption": "Wednesday.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "chatId": -1001572705149,
+    "size": 666889599
+  },
+  {
+    "id": 819,
+    "name": "Wednesday.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
     "size": 666889599
   },
   {
@@ -15204,10 +15407,24 @@
     "size": 477529907
   },
   {
+    "id": 811,
+    "name": "Wednesday.S02E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
+    "size": 477529907
+  },
+  {
     "id": 5630,
     "name": "Wednesday.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "caption": "Wednesday.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
     "chatId": -1001572705149,
+    "size": 611454490
+  },
+  {
+    "id": 820,
+    "name": "Wednesday.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "caption": "Wednesday.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PS.mkv",
+    "chatId": -1003068337532,
     "size": 611454490
   },
   {
@@ -15218,10 +15435,24 @@
     "size": 265879542
   },
   {
+    "id": 816,
+    "name": "Wednesday.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Wednesday.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 265879542
+  },
+  {
     "id": 5622,
     "name": "Wednesday.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "caption": "Wednesday.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
     "chatId": -1001572705149,
+    "size": 452790766
+  },
+  {
+    "id": 812,
+    "name": "Wednesday.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "caption": "Wednesday.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+    "chatId": -1003068337532,
     "size": 452790766
   },
   {
@@ -15232,10 +15463,24 @@
     "size": 2501962176
   },
   {
+    "id": 808,
+    "name": "Wednesday.S02V01.COMBINED.1080p.NF.WEB-DL.AAC5.1.AV1-Pri.mkv",
+    "caption": "Wednesday.S02V01.COMBINED.1080p.NF.WEB-DL.AAC5.1.AV1-Pri.mkv",
+    "chatId": -1003068337532,
+    "size": 2501962176
+  },
+  {
     "id": 5617,
     "name": "Wednesday.S02V01.COMBINED.720p.NF.WEB-DL.AAC5.1.H.265-Pr.mkv",
     "caption": "Wednesday.S02V01.COMBINED.720p.NF.WEB-DL.AAC5.1.H.265-Pr.mkv",
     "chatId": -1001572705149,
+    "size": 1072931733
+  },
+  {
+    "id": 807,
+    "name": "Wednesday.S02V01.COMBINED.720p.NF.WEB-DL.AAC5.1.H.265-Pr.mkv",
+    "caption": "Wednesday.S02V01.COMBINED.720p.NF.WEB-DL.AAC5.1.H.265-Pr.mkv",
+    "chatId": -1003068337532,
     "size": 1072931733
   },
   {
