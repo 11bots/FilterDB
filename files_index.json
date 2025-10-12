@@ -1505,6 +1505,13 @@
     "size": 1315740572
   },
   {
+    "id": 2083,
+    "name": "@CC Anniyan.2005.Tamil.DVDRip.x264.@cinema_company.mkv",
+    "caption": "@CC Anniyan.2005.Tamil.DVDRip.x264.@cinema_company.mkv",
+    "chatId": -1003068337532,
+    "size": 554901294
+  },
+  {
     "id": 5075,
     "name": "@CC Kaliyoonjal 1997 WEBRip @cinema_company.mp4",
     "caption": "@CC Kaliyoonjal 1997 WEBRip @cinema_company.mp4",
@@ -1589,6 +1596,13 @@
     "size": 1274750721
   },
   {
+    "id": 2085,
+    "name": "@CC_All.Anniyan.2005.Tamil.DVDRip.xvid.avi",
+    "caption": "@CC_All.Anniyan.2005.Tamil.DVDRip.xvid.avi",
+    "chatId": -1003068337532,
+    "size": 744378654
+  },
+  {
     "id": 5196,
     "name": "@CC_Marykkundoru_Kunjaadu__2010_.mkv",
     "caption": "@CC_Marykkundoru_Kunjaadu__2010_.mkv",
@@ -1629,6 +1643,13 @@
     "caption": "@CC.Aiyyaa 2012 Hindi DVDRip xvid.avi",
     "chatId": -1001572705149,
     "size": 731232256
+  },
+  {
+    "id": 2086,
+    "name": "@CC.Anniyan.2005.720p.HDRip.x265.mkv",
+    "caption": "@CC.Anniyan.2005.720p.HDRip.x265.mkv",
+    "chatId": -1003068337532,
+    "size": 1033126955
   },
   {
     "id": 5004,
@@ -4912,6 +4933,69 @@
     "caption": "Annayum Rasoolum 2012@kickass_torrents.mkv",
     "chatId": -1001572705149,
     "size": 740063804
+  },
+  {
+    "id": 2082,
+    "name": "Anniyan 2005 UNCUT Tam Hin BluRay HEVC x265 720p ESub.mkv",
+    "caption": "Anniyan 2005 UNCUT Tam Hin BluRay HEVC x265 720p ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 1872673685
+  },
+  {
+    "id": 2081,
+    "name": "Anniyan_2005_1080p_10bit_SS_WEBRip_TAM_DD5_1_x265_HEVC_ESub_LSSJBroly.mkv",
+    "caption": "Anniyan_2005_1080p_10bit_SS_WEBRip_TAM_DD5_1_x265_HEVC_ESub_LSSJBroly.mkv",
+    "chatId": -1003068337532,
+    "size": 2703976175
+  },
+  {
+    "id": 2079,
+    "name": "Anniyan_2005_720p_10bit_SS_WEBRip_TAM_AAC_5_1_x265_HEVC_ESub_LSSJBroly.mkv",
+    "caption": "Anniyan_2005_720p_10bit_SS_WEBRip_TAM_AAC_5_1_x265_HEVC_ESub_LSSJBroly.mkv",
+    "chatId": -1003068337532,
+    "size": 1246709112
+  },
+  {
+    "id": 2076,
+    "name": "Anniyan_2005_Restored_1080p_AMZN_WEB_DL_x265_HEVC_10bit_EAC3_5_1.mkv",
+    "caption": "Anniyan_2005_Restored_1080p_AMZN_WEB_DL_x265_HEVC_10bit_EAC3_5_1.mkv",
+    "chatId": -1003068337532,
+    "size": 3690057737
+  },
+  {
+    "id": 2074,
+    "name": "Anniyan_2005_UNCUT_720p_10bit_AMZN_WEBRip_x265_HEVC_Org_YT_Hindi.mkv",
+    "caption": "Anniyan_2005_UNCUT_720p_10bit_AMZN_WEBRip_x265_HEVC_Org_YT_Hindi.mkv",
+    "chatId": -1003068337532,
+    "size": 1947311694
+  },
+  {
+    "id": 2075,
+    "name": "Anniyan.2005.720p.AMZN.WEB.DL.HEVC.DDP5.1.640k-DDH.mkv",
+    "caption": "Anniyan.2005.720p.AMZN.WEB.DL.HEVC.DDP5.1.640k-DDH.mkv",
+    "chatId": -1003068337532,
+    "size": 2065172392
+  },
+  {
+    "id": 2077,
+    "name": "Anniyan.2005.Tamil.1080p.10bit.x265.HEVC.CPTN5DW.mkv",
+    "caption": "Anniyan.2005.Tamil.1080p.10bit.x265.HEVC.CPTN5DW.mkv",
+    "chatId": -1003068337532,
+    "size": 3712831102
+  },
+  {
+    "id": 2078,
+    "name": "Anniyan.2005.Tamil.1080p.10bit.x265.HEVC.CPTN5DW.mkv",
+    "caption": "Anniyan.2005.Tamil.1080p.10bit.x265.HEVC.CPTN5DW.mkv",
+    "chatId": -1003068337532,
+    "size": 3104885160
+  },
+  {
+    "id": 2080,
+    "name": "Anniyan.TAM.1080p.10-bit.AMZN-Rip.DDP-5.1.HEVC-ATH.mkv",
+    "caption": "Anniyan.TAM.1080p.10-bit.AMZN-Rip.DDP-5.1.HEVC-ATH.mkv",
+    "chatId": -1003068337532,
+    "size": 4108379399
   },
   {
     "id": 4894,
@@ -8265,6 +8349,62 @@
     "caption": "Escape.Puzzle.of.Fear.2020.WEBDL.@Qualitymovies.mkv",
     "chatId": -1001572705149,
     "size": 835689458
+  },
+  {
+    "id": 2045,
+    "name": "Everything’s Going to Be Great (2025) 1080p 10bit AMZN W.mkv",
+    "caption": "Everything’s Going to Be Great (2025) 1080p 10bit AMZN W.mkv",
+    "chatId": -1003068337532,
+    "size": 2104768000
+  },
+  {
+    "id": 2046,
+    "name": "Everything’s Going to Be Great (2025) 720p 10bit AMZN WE.mkv",
+    "caption": "Everything’s Going to Be Great (2025) 720p 10bit AMZN WE.mkv",
+    "chatId": -1003068337532,
+    "size": 1163676885
+  },
+  {
+    "id": 2044,
+    "name": "Everythings Going to be Great 2025 1080p WEB-DL HEVC x265 5..mkv",
+    "caption": "Everythings Going to be Great 2025 1080p WEB-DL HEVC x265 5..mkv",
+    "chatId": -1003068337532,
+    "size": 1444457717
+  },
+  {
+    "id": 2043,
+    "name": "EVERYTHINGS.GOING.TO.BE.GREAT.2025.1080p.AMZN.WEB-DL.DDP5.1..mkv",
+    "caption": "EVERYTHINGS.GOING.TO.BE.GREAT.2025.1080p.AMZN.WEB-DL.DDP5.1..mkv",
+    "chatId": -1003068337532,
+    "size": 3224081591
+  },
+  {
+    "id": 2048,
+    "name": "Everythings.Going.To.Be.Great.2025.1080p.WEBRip.x264.mp4",
+    "caption": "Everythings.Going.To.Be.Great.2025.1080p.WEBRip.x264.mp4",
+    "chatId": -1003068337532,
+    "size": 1882167138
+  },
+  {
+    "id": 2047,
+    "name": "Everythings.Going.To.Be.Great.2025.1080p.WEBRip.x265.mp4",
+    "caption": "Everythings.Going.To.Be.Great.2025.1080p.WEBRip.x265.mp4",
+    "chatId": -1003068337532,
+    "size": 1704946411
+  },
+  {
+    "id": 2042,
+    "name": "EVERYTHINGS.GOING.TO.BE.GREAT.2025.720p.AMZN.WEB-DL.DDP5.1.H.mkv",
+    "caption": "EVERYTHINGS.GOING.TO.BE.GREAT.2025.720p.AMZN.WEB-DL.DDP5.1.H.mkv",
+    "chatId": -1003068337532,
+    "size": 1010946521
+  },
+  {
+    "id": 2049,
+    "name": "Everythings.Going.To.Be.Great.2025.720p.WEBRip.x264..mp4",
+    "caption": "Everythings.Going.To.Be.Great.2025.720p.WEBRip.x264..mp4",
+    "chatId": -1003068337532,
+    "size": 916035726
   },
   {
     "id": 4815,
@@ -13426,11 +13566,67 @@
     "size": 734113163
   },
   {
+    "id": 1958,
+    "name": "Mirai (2025) Kannada HQ HDRip - 1080p - x264 - (DD+5.1 - 192.mkv",
+    "caption": "Mirai (2025) Kannada HQ HDRip - 1080p - x264 - (DD+5.1 - 192.mkv",
+    "chatId": -1003068337532,
+    "size": 3309313632
+  },
+  {
+    "id": 1959,
+    "name": "Mirai (2025) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192K.mkv",
+    "caption": "Mirai (2025) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192K.mkv",
+    "chatId": -1003068337532,
+    "size": 1813466447
+  },
+  {
+    "id": 1969,
+    "name": "Mirai (2025) Kannada HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "caption": "Mirai (2025) Kannada HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 451865282
+  },
+  {
+    "id": 1956,
+    "name": "Mirai (2025) Kannada HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "caption": "Mirai (2025) Kannada HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 763491313
+  },
+  {
+    "id": 1957,
+    "name": "Mirai (2025) Malayalam HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "caption": "Mirai (2025) Malayalam HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 763491305
+  },
+  {
     "id": 7885,
     "name": "Mirai (2025) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 .mkv",
     "caption": "Mirai (2025) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 .mkv",
     "chatId": -1001572705149,
     "size": 2009520790
+  },
+  {
+    "id": 1964,
+    "name": "Mirai (2025) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 .mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 .mkv",
+    "chatId": -1003068337532,
+    "size": 2009520790
+  },
+  {
+    "id": 1965,
+    "name": "Mirai (2025) Tamil HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kb.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kb.mkv",
+    "chatId": -1003068337532,
+    "size": 3309313600
+  },
+  {
+    "id": 1955,
+    "name": "Mirai (2025) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 -.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 -.mkv",
+    "chatId": -1003068337532,
+    "size": 1174118731
   },
   {
     "id": 7884,
@@ -13440,10 +13636,31 @@
     "size": 1813466427
   },
   {
+    "id": 1966,
+    "name": "Mirai (2025) Tamil HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbp.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbp.mkv",
+    "chatId": -1003068337532,
+    "size": 1813466427
+  },
+  {
+    "id": 1961,
+    "name": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 250MB - ESub.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 250MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 304804172
+  },
+  {
     "id": 7887,
     "name": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
     "caption": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
     "chatId": -1001572705149,
+    "size": 451865275
+  },
+  {
+    "id": 1970,
+    "name": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "chatId": -1003068337532,
     "size": 451865275
   },
   {
@@ -13454,11 +13671,74 @@
     "size": 763491303
   },
   {
+    "id": 1968,
+    "name": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "caption": "Mirai (2025) Tamil HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 763491303
+  },
+  {
+    "id": 1960,
+    "name": "Mirai (2025) Telugu HQ HDRip - 1080p - HEVC - x265 - (DD+5.1.mkv",
+    "caption": "Mirai (2025) Telugu HQ HDRip - 1080p - HEVC - x265 - (DD+5.1.mkv",
+    "chatId": -1003068337532,
+    "size": 2009520789
+  },
+  {
+    "id": 1962,
+    "name": "Mirai (2025) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 192K.mkv",
+    "caption": "Mirai (2025) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 192K.mkv",
+    "chatId": -1003068337532,
+    "size": 3309313604
+  },
+  {
+    "id": 1967,
+    "name": "Mirai (2025) Telugu HQ HDRip - 720p - HEVC - x265 - (DD+5.1 .mkv",
+    "caption": "Mirai (2025) Telugu HQ HDRip - 720p - HEVC - x265 - (DD+5.1 .mkv",
+    "chatId": -1003068337532,
+    "size": 1174118735
+  },
+  {
+    "id": 1972,
+    "name": "Mirai (2025) Telugu HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "caption": "Mirai (2025) Telugu HQ HDRip - x264 - AAC - 400MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 451865273
+  },
+  {
+    "id": 1971,
+    "name": "Mirai (2025) Telugu HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "caption": "Mirai (2025) Telugu HQ HDRip - x264 - AAC - 700MB - ESub.mkv",
+    "chatId": -1003068337532,
+    "size": 763491301
+  },
+  {
+    "id": 1953,
+    "name": "Mirai.2025.1080p.WEBRip.x264.AAC5.1-YTS.mp4",
+    "caption": "Mirai.2025.1080p.WEBRip.x264.AAC5.1-YTS.mp4",
+    "chatId": -1003068337532,
+    "size": 3290009496
+  },
+  {
     "id": 7883,
     "name": "Mirai.2025.720p.HS.WEB.DL.HEVC.TEL.DDP5.1.192k-DDH.mkv",
     "caption": "Mirai.2025.720p.HS.WEB.DL.HEVC.TEL.DDP5.1.192k-DDH.mkv",
     "chatId": -1001572705149,
     "size": 1095297389
+  },
+  {
+    "id": 1973,
+    "name": "Mirai.2025.720p.HS.WEB.DL.HEVC.TEL.DDP5.1.192k-DDH.mkv",
+    "caption": "Mirai.2025.720p.HS.WEB.DL.HEVC.TEL.DDP5.1.192k-DDH.mkv",
+    "chatId": -1003068337532,
+    "size": 1095297389
+  },
+  {
+    "id": 1954,
+    "name": "Mirai.2025.720p.WEBRip.x264.AAC-YTS.mp4",
+    "caption": "Mirai.2025.720p.WEBRip.x264.AAC-YTS.mp4",
+    "chatId": -1003068337532,
+    "size": 1601790146
   },
   {
     "id": 7881,
@@ -15708,6 +15988,34 @@
     "size": 303687036
   },
   {
+    "id": 2031,
+    "name": "Peacemaker.2022.S02E08.1080p.10bit.WEBRip.6CH.x265.H.mkv",
+    "caption": "Peacemaker.2022.S02E08.1080p.10bit.WEBRip.6CH.x265.H.mkv",
+    "chatId": -1003068337532,
+    "size": 972827249
+  },
+  {
+    "id": 2029,
+    "name": "Peacemaker.2022.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+    "caption": "Peacemaker.2022.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 972827249
+  },
+  {
+    "id": 2028,
+    "name": "Peacemaker.2022.S02E08.2160p.10bit.HDR.DV.WEBRip.6CH.mkv",
+    "caption": "Peacemaker.2022.S02E08.2160p.10bit.HDR.DV.WEBRip.6CH.mkv",
+    "chatId": -1003068337532,
+    "size": 1780984025
+  },
+  {
+    "id": 2030,
+    "name": "Peacemaker.2022.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "caption": "Peacemaker.2022.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+    "chatId": -1003068337532,
+    "size": 452149572
+  },
+  {
     "id": 6143,
     "name": "Peaky.Blinders.S01E01.720p.BluRay.x264.400MB-Pahe.in.mkv",
     "caption": "Peaky.Blinders.S01E01.720p.BluRay.x264.400MB-Pahe.in.mkv",
@@ -17633,11 +17941,102 @@
     "size": 525182584
   },
   {
+    "id": 1997,
+    "name": "Search_The_Naina_Murder_Case_S01_480p_JHS_WEB_DL_AAC2_0_H_264_ExtraFlix.mkv",
+    "caption": "Search_The_Naina_Murder_Case_S01_480p_JHS_WEB_DL_AAC2_0_H_264_ExtraFlix.mkv",
+    "chatId": -1003068337532,
+    "size": 985692099
+  },
+  {
+    "id": 1998,
+    "name": "Search_The_Naina_Murder_Case_S01_720p_JHS_WEB_DL_DDP5_1_H_264_ExtraFlix.mkv",
+    "caption": "Search_The_Naina_Murder_Case_S01_720p_JHS_WEB_DL_DDP5_1_H_264_ExtraFlix.mkv",
+    "chatId": -1003068337532,
+    "size": 2434646600
+  },
+  {
     "id": 5754,
     "name": "Search.and.Destroy.2020.WEBDL.@Qualitymovies.mkv",
     "caption": "Search.and.Destroy.2020.WEBDL.@Qualitymovies.mkv",
     "chatId": -1001572705149,
     "size": 834201036
+  },
+  {
+    "id": 1990,
+    "name": "Search.The.Naina.Murder.Case.S01E01.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E01.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1565431578
+  },
+  {
+    "id": 1991,
+    "name": "Search.The.Naina.Murder.Case.S01E01.Skeletons.in.the.mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E01.Skeletons.in.the.mkv",
+    "chatId": -1003068337532,
+    "size": 3470341464
+  },
+  {
+    "id": 1989,
+    "name": "Search.The.Naina.Murder.Case.S01E02.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E02.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1521352583
+  },
+  {
+    "id": 1996,
+    "name": "Search.The.Naina.Murder.Case.S01E02.Writing.on.the.W.mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E02.Writing.on.the.W.mkv",
+    "chatId": -1003068337532,
+    "size": 3337443474
+  },
+  {
+    "id": 1988,
+    "name": "Search.The.Naina.Murder.Case.S01E03.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E03.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1343450395
+  },
+  {
+    "id": 1992,
+    "name": "Search.The.Naina.Murder.Case.S01E03.Et.Tu.Brute.2160.mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E03.Et.Tu.Brute.2160.mkv",
+    "chatId": -1003068337532,
+    "size": 2925899472
+  },
+  {
+    "id": 1987,
+    "name": "Search.The.Naina.Murder.Case.S01E04.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E04.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1206464616
+  },
+  {
+    "id": 1994,
+    "name": "Search.The.Naina.Murder.Case.S01E04.End.of.the.Rope..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E04.End.of.the.Rope..mkv",
+    "chatId": -1003068337532,
+    "size": 2624287399
+  },
+  {
+    "id": 1986,
+    "name": "Search.The.Naina.Murder.Case.S01E05.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E05.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1191409623
+  },
+  {
+    "id": 1993,
+    "name": "Search.The.Naina.Murder.Case.S01E05.Devil.in.the.Det.mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E05.Devil.in.the.Det.mkv",
+    "chatId": -1003068337532,
+    "size": 2574491189
+  },
+  {
+    "id": 1985,
+    "name": "Search.The.Naina.Murder.Case.S01E06.1080p.HS.WEB-DL..mkv",
+    "caption": "Search.The.Naina.Murder.Case.S01E06.1080p.HS.WEB-DL..mkv",
+    "chatId": -1003068337532,
+    "size": 1100394437
   },
   {
     "id": 5129,
@@ -18935,6 +19334,27 @@
     "size": 550630541
   },
   {
+    "id": 1942,
+    "name": "The Woman in Cabin 10 (2025) HQ HDRip - 1080p - x264 - [Tam .mkv",
+    "caption": "The Woman in Cabin 10 (2025) HQ HDRip - 1080p - x264 - [Tam .mkv",
+    "chatId": -1003068337532,
+    "size": 3358023990
+  },
+  {
+    "id": 1943,
+    "name": "The Woman in Cabin 10 (2025) HQ HDRip - 720p - x264 - [Tam +.mkv",
+    "caption": "The Woman in Cabin 10 (2025) HQ HDRip - 720p - x264 - [Tam +.mkv",
+    "chatId": -1003068337532,
+    "size": 1483320731
+  },
+  {
+    "id": 1944,
+    "name": "The Woman in Cabin 10 (2025) HQ HDRip - x264 - [Tam + Tel + .mkv",
+    "caption": "The Woman in Cabin 10 (2025) HQ HDRip - x264 - [Tam + Tel + .mkv",
+    "chatId": -1003068337532,
+    "size": 486395074
+  },
+  {
     "id": 5953,
     "name": "The_Amazing_Spider_man_2_2014_720p.mkv",
     "caption": "The_Amazing_Spider_man_2_2014_720p.mkv",
@@ -19621,6 +20041,27 @@
     "size": 1571108859
   },
   {
+    "id": 1941,
+    "name": "The.Woman.in.Cabin.10.2025.1080p.10bit.WEBRip.6CH.x2.mkv",
+    "caption": "The.Woman.in.Cabin.10.2025.1080p.10bit.WEBRip.6CH.x2.mkv",
+    "chatId": -1003068337532,
+    "size": 1550740715
+  },
+  {
+    "id": 1945,
+    "name": "The.Woman.In.Cabin.10.2025.1080p.WEBRip.x264.AAC5.1-.mp4",
+    "caption": "The.Woman.In.Cabin.10.2025.1080p.WEBRip.x264.AAC5.1-.mp4",
+    "chatId": -1003068337532,
+    "size": 1882641341
+  },
+  {
+    "id": 1946,
+    "name": "The.Woman.In.Cabin.10.2025.720p.WEBRip.x264.AAC-YTS.mp4",
+    "caption": "The.Woman.In.Cabin.10.2025.720p.WEBRip.x264.AAC-YTS.mp4",
+    "chatId": -1003068337532,
+    "size": 914724119
+  },
+  {
     "id": 6443,
     "name": "Thekku.Vadakku.2024.Malayalam.1080p.MMAX.WEB-DL.DD+5.1.x.mkv",
     "caption": "Thekku.Vadakku.2024.Malayalam.1080p.MMAX.WEB-DL.DD+5.1.x.mkv",
@@ -20305,6 +20746,97 @@
     "caption": "Vedha.2023.1080p.ZEE5.WEB-DL.Multi.AAC2.0.H.264-BiGiL.mkv",
     "chatId": -1001572705149,
     "size": 3254660082
+  },
+  {
+    "id": 2017,
+    "name": "Veduvan.S01E01-The.Role.of.a.Lifetime.2025.1080p.ZEE.mkv",
+    "caption": "Veduvan.S01E01-The.Role.of.a.Lifetime.2025.1080p.ZEE.mkv",
+    "chatId": -1003068337532,
+    "size": 184088890
+  },
+  {
+    "id": 2022,
+    "name": "Veduvan.S01E01-The.Role.of.a.Lifetime.2025.720p.ZEE5.mkv",
+    "caption": "Veduvan.S01E01-The.Role.of.a.Lifetime.2025.720p.ZEE5.mkv",
+    "chatId": -1003068337532,
+    "size": 119547087
+  },
+  {
+    "id": 2014,
+    "name": "Veduvan.S01E02-The.Man.in.the.Shadows.2025.1080p.ZEE.mkv",
+    "caption": "Veduvan.S01E02-The.Man.in.the.Shadows.2025.1080p.ZEE.mkv",
+    "chatId": -1003068337532,
+    "size": 209500121
+  },
+  {
+    "id": 2021,
+    "name": "Veduvan.S01E02-The.Man.in.the.Shadows.2025.720p.ZEE5.mkv",
+    "caption": "Veduvan.S01E02-The.Man.in.the.Shadows.2025.720p.ZEE5.mkv",
+    "chatId": -1003068337532,
+    "size": 133190232
+  },
+  {
+    "id": 2013,
+    "name": "Veduvan.S01E03-The.Calm.Before.the.Storm.2025.1080p..mkv",
+    "caption": "Veduvan.S01E03-The.Calm.Before.the.Storm.2025.1080p..mkv",
+    "chatId": -1003068337532,
+    "size": 230058157
+  },
+  {
+    "id": 2020,
+    "name": "Veduvan.S01E03-The.Calm.Before.the.Storm.2025.720p.Z.mkv",
+    "caption": "Veduvan.S01E03-The.Calm.Before.the.Storm.2025.720p.Z.mkv",
+    "chatId": -1003068337532,
+    "size": 146458259
+  },
+  {
+    "id": 2012,
+    "name": "Veduvan.S01E04-The.Predator.2025.1080p.ZEE5.WEB-DL.D.mkv",
+    "caption": "Veduvan.S01E04-The.Predator.2025.1080p.ZEE5.WEB-DL.D.mkv",
+    "chatId": -1003068337532,
+    "size": 148556576
+  },
+  {
+    "id": 2019,
+    "name": "Veduvan.S01E04-The.Predator.2025.720p.ZEE5.WEB-DL.DD.mkv",
+    "caption": "Veduvan.S01E04-The.Predator.2025.720p.ZEE5.WEB-DL.DD.mkv",
+    "chatId": -1003068337532,
+    "size": 98945339
+  },
+  {
+    "id": 2011,
+    "name": "Veduvan.S01E05-The.Kill.2025.1080p.ZEE5.WEB-DL.DD+5..mkv",
+    "caption": "Veduvan.S01E05-The.Kill.2025.1080p.ZEE5.WEB-DL.DD+5..mkv",
+    "chatId": -1003068337532,
+    "size": 223349581
+  },
+  {
+    "id": 2018,
+    "name": "Veduvan.S01E05-The.Kill.2025.720p.ZEE5.WEB-DL.DD+5.1.mkv",
+    "caption": "Veduvan.S01E05-The.Kill.2025.720p.ZEE5.WEB-DL.DD+5.1.mkv",
+    "chatId": -1003068337532,
+    "size": 138314449
+  },
+  {
+    "id": 2010,
+    "name": "Veduvan.S01E06-The.Weight.of.the.Bullet.2025.1080p.Z.mkv",
+    "caption": "Veduvan.S01E06-The.Weight.of.the.Bullet.2025.1080p.Z.mkv",
+    "chatId": -1003068337532,
+    "size": 142922148
+  },
+  {
+    "id": 2009,
+    "name": "Veduvan.S01E07-The.Truth.as.We.Know.It.2025.1080p.ZE.mkv",
+    "caption": "Veduvan.S01E07-The.Truth.as.We.Know.It.2025.1080p.ZE.mkv",
+    "chatId": -1003068337532,
+    "size": 171139671
+  },
+  {
+    "id": 2015,
+    "name": "Veduvan.S01E07-The.Truth.as.We.Know.It.2025.720p.ZEE.mkv",
+    "caption": "Veduvan.S01E07-The.Truth.as.We.Know.It.2025.720p.ZEE.mkv",
+    "chatId": -1003068337532,
+    "size": 116482492
   },
   {
     "id": 4172,
